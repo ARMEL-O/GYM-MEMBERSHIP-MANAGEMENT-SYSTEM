@@ -39,11 +39,11 @@ gym-membership-management-system/
 ├── 📄 README.md
 │
 ├── 📁 database/
-│   ├── schema.sql           # SQL commands to create tables
-│   ├── sample_data.sql      # INSERT statements for example data
-│   ├── views.sql            # SQL views for data analysis
-│   ├── queries.sql          # JOIN, subquery, and report queries
-│   └── er_diagram.png       # Entity Relationship Diagram
+│   ├── 01._schema.sql           # SQL commands to create tables
+│   ├── 02._sample_data.sql      # INSERT statements for example data
+│   ├── 03._views.sql            # SQL views for data analysis
+│   ├── 04._queries.sql          # JOIN, subquery, and report queries
+│   └── 05._er_diagram.png       # Entity Relationship Diagram
 │
 ├── 📁 documentation/
 │   ├── project_report.docx  # Detailed report (Problem, Design, etc.)
