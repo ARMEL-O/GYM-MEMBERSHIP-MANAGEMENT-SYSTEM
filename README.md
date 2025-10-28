@@ -34,6 +34,26 @@ This system solves these problems by **automating data management** and ensuring
 
 ## 🧩 Database Design
 
+gym-membership-management-system/
+│
+├── 📄 README.md
+│
+├── 📁 database/
+│   ├── schema.sql           # SQL commands to create tables
+│   ├── sample_data.sql      # INSERT statements for example data
+│   ├── views.sql            # SQL views for data analysis
+│   ├── queries.sql          # JOIN, subquery, and report queries
+│   └── er_diagram.png       # Entity Relationship Diagram
+│
+├── 📁 documentation/
+│   ├── project_report.docx  # Detailed report (Problem, Design, etc.)
+│   ├── screenshots/         # Query outputs, schema, and results
+│   │   ├── schema_result.png
+│   │   ├── join_query_output.png
+│   │   ├── views_output.png
+│   └── presentation.pptx    # Optional presentation for viva/demo
+│
+
 ### **Entities and Attributes**
 **Members**
 - Member_ID *(PK)*
