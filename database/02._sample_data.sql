@@ -4,8 +4,8 @@
 
 INSERT INTO Members (Name, Age, Gender, Phone, Join_Date)
 VALUES
-('John Doe', 25, 'Male', '9998887777', '2025-10-01'),
-('Jane Smith', 28, 'Female', '8887776666', '2025-10-05'),
+('Yann Armel', 25, 'Male', '9998887777', '2025-10-01'),
+('Farai Edwin', 28, 'Female', '8887776666', '2025-10-05'),
 ('Alex Carter', 32, 'Male', '7776665555', '2025-10-10');
 
 -- ============================================
