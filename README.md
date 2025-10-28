@@ -48,7 +48,7 @@ gym-membership-management-system/
 ├── 📁 documentation/
 │   ├── project_report.docx  # Detailed report (Problem, Design, etc.)
 │   ├── screenshots/         # Query outputs, schema, and results
-│   │   ├── schema_result.png
+│   │   ├── 01._schema_result.png
 │   │   ├── join_query_output.png
 │   │   ├── views_output.png
 │   └── presentation.pptx    # Optional presentation for viva/demo
